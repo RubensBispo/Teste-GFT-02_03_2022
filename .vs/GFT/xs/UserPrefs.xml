@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{78084E81-D9AA-404A-B1BC-55485483CA5B}|Default">
+  <MonoDevelop.Ide.ItemProperties.teste PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GFT" expanded="True">
+            <Node name="teste" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="SdkDependencies" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
